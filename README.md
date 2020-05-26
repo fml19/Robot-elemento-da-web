@@ -25,4 +25,3 @@ $ bundle install
 3. Para executar o projeto, necessario se encontrar na pasta web, e executar o comando:
 ````
 $ robot -d ./log tests\
-```
