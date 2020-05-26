@@ -1,0 +1,3 @@
+web/**/*.png
+web/log/*.html
+web/log/*.xml
